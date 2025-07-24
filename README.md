@@ -1,0 +1,1 @@
+# viestinta-tutkimus-kehitystyossa
